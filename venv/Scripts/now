@@ -1,0 +1,3 @@
+#!C:\Users\37533\PycharmProjects\kesha(Houdi)\venv\Scripts\python.exe
+from now.main import main
+main()
